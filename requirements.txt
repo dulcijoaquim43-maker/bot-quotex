@@ -1,0 +1,5 @@
+Flask
+quotexapi
+pandas
+requests
+websocket-client
